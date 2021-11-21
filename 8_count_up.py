@@ -8,3 +8,4 @@ def count_digits(x):  # Сумма цифр числа
 
 y = int(input('Input number:'))
 print('Sum digits of number = ', count_digits(y))
+
